@@ -1,5 +1,5 @@
 # email-sender
-__Project SetUp__
+__Project SetUp__<br>
 ``npm i``
 __Compiles and hot-reloads for development__
 ``npm run serve``
